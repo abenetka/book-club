@@ -7,7 +7,7 @@ Mod 2 Project to build an MVC framework in Rails with a PostgreSQL database
 
 ## Getting Started
 
-You can view Book Club at https://shielded-scrubland-71367.herokuapp.com/books
+You can view Book Club at https://whispering-bayou-33669.herokuapp.com/
 
 Should you want to run Book Club locally, follow these steps:
 
